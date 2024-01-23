@@ -5,7 +5,7 @@ while indice < len(nome_scuola):
     print(nome_scuola[indice])
     indice += 1
 
-
+      
 
 
 print(nome_scuola)
